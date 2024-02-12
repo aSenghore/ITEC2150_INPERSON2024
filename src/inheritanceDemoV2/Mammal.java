@@ -1,6 +1,6 @@
 package inheritanceDemoV2;
 
-import InheritanceDemoV1.Animal;
+import inheritanceDemoV1.Animal;
 
 public class Mammal extends Animal {
 

@@ -1,5 +1,5 @@
 //version 1
-package InheritanceDemoV1;
+package inheritanceDemoV1;
 
 public class Reptile extends Animal {
 

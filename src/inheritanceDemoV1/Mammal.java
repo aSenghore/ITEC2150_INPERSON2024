@@ -1,4 +1,4 @@
-package InheritanceDemoV1;
+package inheritanceDemoV1;
 
 public class Mammal extends Animal {
 
